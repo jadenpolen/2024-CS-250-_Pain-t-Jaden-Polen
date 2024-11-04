@@ -1,0 +1,90 @@
+Jaden Paint Version 1.0.0 - 11/01/2024
+	
+	New Features
+		- Added Autosave
+		- Added Autosave Timer
+		- Added alternative image saving options
+		- Added Javadoc documentation
+		
+	Known Issues 
+		- Undo not working
+		- Drawn lines disappear when selecting
+	
+	Upcoming Features
+		- Image Rotation
+		- Text Insertion
+		- Icons
+		- Autosave notifications
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jaden Paint Version 0.0.4 - 09/20/2024
+	
+	New Features
+		- Added Shape Insert with Square, Triangle, Ellipse, Rectangle, Circle, and Octagon
+		- Added undo functionality
+		- Introduced selection tool with dashed rectangle highlight
+		
+	Known Issues 
+		- Undo not working
+		- Drawn lines disappear when selecting
+	
+	Upcoming Features
+		- Timers
+		- Text Insertion
+		
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jaden Paint Version 0.0.3 - 09/16/2024
+	
+	New Features
+		- Added Line Width Selector
+		- Added Line Color Selector
+		- Added Line Color Labels
+		- Large Images will now not be cut off
+		- Added smart/aware save
+		
+	Known Issues 
+		- Close Image no longer working
+		- Smart Save does not always work
+	
+	Upcoming Features
+		- Tabs
+		- Shape Insertion
+		- Text Insertion
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Jaden Paint Version 0.0.2 - 09/06/2024
+	
+	New Features
+		- .PNG and .GIF Support
+		- Added Line Drawing
+		- Added Line Width Selector
+		- Added Line Color Selector
+		- Large Images will now not be cut off
+		- Added Help Tab
+		
+	Known Issues 
+		- Close Image no longer working
+	
+	Upcoming Features
+		- Shape Insertion
+		- UI Overhaul
+		- About tab
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jaden Paint Version 0.0.1 - 08/30/2024
+	New Features
+		- Added open image
+		- Added close image
+		- Added options menu
+	Known Issues 
+		- Cannot save
+		- Cannot save as
+	Upcoming Features
+		- Save 
+		- Save as
+		- UI Overhaul
+		- Line Drawing Capabilities
+		- Help menu w/about tab
+		- Line options
