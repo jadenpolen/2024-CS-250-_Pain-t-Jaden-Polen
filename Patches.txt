@@ -1,4 +1,6 @@
-Jaden Paint Version 1.0.0 - 11/01/2024
+https://github.com/jadenpolen/2024-CS-250-_Pain-t-Jaden-Polen.git
+https://youtu.be/A7RhvOd0Vco
+Jaden Paint Version 1.0.0 - 10/28/2024
 	
 	New Features
 		- Added Autosave
